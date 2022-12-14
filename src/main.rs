@@ -16,7 +16,6 @@ fn main() {
         let mut previous_command = None;
 
         while let Some(command) = commands.next() {
-            // trim tailing newline
             let mut parts = command.split_whitespace();
             let command = parts.next().unwrap();
             let args = parts;
