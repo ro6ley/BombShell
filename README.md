@@ -21,8 +21,3 @@ A simple shell built using Rust.
   >> ls
   Cargo.lock      Cargo.toml      README.md       src             target
   ```
-
-### Resources
-
-- [Build Your Own Shell using Rust](https://www.joshmcguigan.com/blog/build-your-own-shell-rust/)
-- [A FizzBuzzy Tour of Traits in Rust](https://www.joshmcguigan.com/blog/fizzbuzz-tour-of-traits-rust/)
